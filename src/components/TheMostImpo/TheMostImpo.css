@@ -1,0 +1,149 @@
+.thempostimpo .thempostimpo-cont .theimpo-cart .theimpo-img {
+    width: 100vw; 
+    height: 100vh;
+    object-fit: cover;
+}
+@media (max-width: 1920px) {
+
+    .thempostimpo {
+        position: relative;
+        left: -6em;
+    }
+    .thempostimpo .theimpo-title-first {
+        position: relative;
+        top: 1.5em;
+        left: 15em;
+    }
+    .thempostimpo .thempostimpo-cont {
+        position: relative;
+        right: 6.4em;
+        width: 80%;
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .theimpo-img {
+        max-width: 410px;
+        max-height: 250px;
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .texts-im {
+        position: relative;
+        left: -1.5em;
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .texts-im h1  {
+        font-size: 24px;
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .texts-im p {
+        font-size: 14px;
+    }
+}
+@media (max-width: 1745px) {
+    .thempostimpo .theimpo-title-first {
+        position: relative;
+        top: 1.2em;
+        left: 15em;
+    }
+}
+@media (max-width: 1596px) {
+    .thempostimpo .theimpo-title-first {
+        position: relative;
+        top: 1.4em;
+        left: 15em;
+    }
+}
+@media  (max-width: 1536px) {
+    .thempostimpo {
+        position: relative;
+        left: -6em;
+    }
+    
+    .thempostimpo .thempostimpo-cont {
+        position: relative;
+        right: 11em;
+        
+    }
+    .thempostimpo .theimpo-title-first {
+        position: relative;
+        top: 1.5em;
+        left: 13em;
+    }
+    
+    .thempostimpo .thempostimpo-cont .theimpo-cart .theimpo-img {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        object-position: bottom;
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .texts-im {
+        position: relative;
+        left: -1.5em;
+    
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .texts-im h1  {
+        font-size: 24px;
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .texts-im p {
+        font-size: 14px;
+    }
+}
+@media  (max-width: 1280px) {
+    .thempostimpo {
+        position: relative;
+        left: -6em;
+    }
+    
+    .thempostimpo .thempostimpo-cont {
+        position: relative;
+        left: -5em;
+        top: 1em;
+    }
+    .thempostimpo .theimpo-title-first {
+        margin-top: -20em;
+    }
+    
+    .thempostimpo .thempostimpo-cont .theimpo-cart .theimpo-img {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        object-position: bottom;
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .texts-im {
+        position: relative;
+        left: -1.5em;
+    
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .texts-im h1  {
+        font-size: 24px;
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .texts-im p {
+        font-size: 14px;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width: 1370px) {
+    .thempostimpo .theimpo-title-first {
+        position: relative;
+        top: -0.9em;
+        left: 13.3em;
+        font-size: 45px;
+    }
+    .thempostimpo .thempostimpo-cont {
+        position: relative;
+        right: 10em;
+        
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .thempostimpo .theimpo-title-first {
+        position: relative;
+        top: -9em;
+        left: 11.9em;
+        font-size: 30px;
+    }
+    .thempostimpo .thempostimpo-cont .theimpo-cart .theimpo-img {
+        max-width: 302px;
+        max-height: 176px;
+    }
+}

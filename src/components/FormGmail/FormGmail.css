@@ -1,0 +1,502 @@
+@media screen and (max-width: 1536px) {
+    .form-hair .form-cont {
+        position: relative;
+        right: 2em;
+    }
+
+}    
+@media screen and (max-width: 1280px) {
+    .form-hair .form-cont {
+        position: relative;
+        right: 3.2em;
+    }
+
+} 
+@media screen and (max-width: 1024px) {
+    .form-hair .form-cont {
+        position: relative;
+        right: 3.3em;
+        top: 35em;
+        width: 775px;
+        height: 262px;
+    }
+    .form-hair .form-cont .form-sub {
+        position: relative;
+        top: 2.9em;
+        left: -6em;
+    }
+    .form-hair img {
+        position: relative;
+        top: 26.6em;
+        left: 7.7em;
+    }
+    .form-hair .form-cont .title-one {
+        font-size: 24px;
+    }
+    .form-hair .form-cont .title-two {
+        margin-top: -0.3em;
+        font-size: 24px;
+    }
+    .form-hair .form-cont .title-three {
+        margin-top: -0.3em;
+        font-size: 24px;
+    }
+    .form-hair .form-cont .title-four {
+        margin-top: -0.3em;
+        font-size: 24px;
+    }
+    .form-hair .form-cont .form-sub .form-sub-text {
+        font-size: 14px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-first {
+        font-size: 16px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-second {
+        font-size: 16px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-third {
+        font-size: 16px;
+    }
+}    
+
+@media screen and (max-width: 768px) {
+    .form-hair .form-cont {
+        position: relative;
+        right: 2em;
+        top: 37em;
+        width: 645px;
+        height: 290px;
+    }
+    .form-hair .form-cont .form-sub {
+        position: relative;
+        top: 4.5em;
+        left: -7.8em;
+    }
+    .form-hair img {
+        position: relative;
+        top: 27.9em;
+        left: 5.7em;
+        width: 80px;
+        height: 80px;
+    }
+    .form-hair .form-cont .form-title {
+        margin-top: 4em;
+        font-size: 16px;
+    }
+    .form-hair .form-cont .form-sub .form-sub-text {
+        font-size: 9px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-input {
+        width: 179px;
+        height: 38px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .form-button {
+        width: 110px;
+        height: 34px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .form-button h5 {
+        font-size: 12px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .more {
+        position: relative;
+        top: -1.6em;
+        width: 20px;
+        height: 20px;
+        left: 5.2em;
+    }
+    .form-hair .form-cont .main-title {
+        position: relative;
+        top: 2em;
+    }
+    .form-hair .form-cont .title-one {
+        font-size: 20px;
+        margin-top: 1.3em;
+    }
+    .form-hair .form-cont .title-two {
+        margin-top: -0.3em;
+        font-size: 20px;
+    }
+    .form-hair .form-cont .title-three {
+        margin-top: -0.3em;
+        font-size: 20px;
+    }
+    .form-hair .form-cont .title-four {
+        margin-top: -0.3em;
+        font-size: 20px;
+    }
+    .form-hair .form-cont .form-sub .form-sub-text {
+        font-size: 14px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-first {
+        font-size: 12px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-second {
+        font-size: 12px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-third {
+        font-size: 12px;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-one {
+        font-size: 10px;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-two {
+        font-size: 10px;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-tree {
+        font-size: 10px;
+    }
+}  
+@media screen and (max-width: 640px) {
+    .form-hair .form-cont {
+        position: relative;
+        right: 2em;
+        top: 37em;
+        width: 645px;
+        height: 290px;
+    }
+    .form-hair .form-cont .form-sub {
+        position: relative;
+        top: 4.5em;
+        left: -8em;
+    }
+    .form-hair img {
+        position: relative;
+        top: 27.9em;
+        left: 5.7em;
+        width: 80px;
+        height: 80px;
+    }
+    .form-hair .form-cont .form-title {
+        margin-top: 4em;
+        font-size: 16px;
+    }
+    .form-hair .form-cont .form-sub .form-sub-text {
+        font-size: 9px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-input {
+        width: 179px;
+        height: 38px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .form-button {
+        width: 110px;
+        height: 34px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .form-button h5 {
+        font-size: 12px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .more {
+        position: relative;
+        top: -1.6em;
+        width: 20px;
+        height: 20px;
+        left: 5.2em;
+    }
+    .form-hair .form-cont .main-title {
+        position: relative;
+        top: 2em;
+    }
+    .form-hair .form-cont .title-one {
+        font-size: 20px;
+        margin-top: 1.3em;
+    }
+    .form-hair .form-cont .title-two {
+        margin-top: -0.3em;
+        font-size: 20px;
+    }
+    .form-hair .form-cont .title-three {
+        margin-top: -0.3em;
+        font-size: 20px;
+    }
+    .form-hair .form-cont .title-four {
+        margin-top: -0.3em;
+        font-size: 20px;
+    }
+    .form-hair .form-cont .form-sub .form-sub-text {
+        font-size: 14px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-first {
+        font-size: 12px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-second {
+        font-size: 12px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-third {
+        font-size: 12px;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-one {
+        font-size: 10px;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-two {
+        font-size: 10px;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-tree {
+        font-size: 10px;
+    }
+} 
+@media screen and (max-width: 480px) {
+    .form-hair .form-cont {
+        position: relative;
+        right: 3.8em;
+        top: 41em;
+        width: 440px;
+        height: 668px;
+    }
+    .form-hair .form-cont .form-sub {
+        position: relative;
+        top: 11.5em;
+        left: 5em;
+    }
+    .form-hair img {
+        position: relative;
+        top: 20em;
+        left: 13.9em;
+        width: 120px;
+        height: 120px;
+    }
+    .form-hair .form-cont .form-title {
+        position: relative;
+        left: 0.6em;
+        top: -3em;
+        font-size: 28px;
+    }
+    .form-hair .form-cont .form-sub .form-sub-text {
+        display: -webkit-box;
+        -webkit-line-clamp: 11;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        font-size: 18px;
+        position: relative;
+        left: 5.5em;
+        top: -4em;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-input {
+        width: 379px;
+        height: 45px;
+        position: relative;
+        left: -28.2em;
+        top: 2em;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .form-button {
+        width: 259px;
+        height: 45px;
+        position: relative;
+        top: 6.6em;
+        left: -49.5em;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .form-button h5 {
+        font-size: 16px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .more {
+        position: relative;
+        top: 4.6em;
+        width: 20px;
+        height: 20px;
+        left: -37em;
+    }
+    .form-hair .form-cont .main-title {
+        position: relative;
+        top: -1.8em;
+    }
+    .form-hair .form-cont .title-one {
+        font-size: 28px;
+        margin-top: 1.3em;
+        position: relative;
+        left: 1em;
+    }
+    .form-hair .form-cont .title-two {
+        margin-top: -0.3em;
+        font-size: 28px;
+        position: relative;
+        left: 2.6em;
+    }
+    .form-hair .form-cont .title-three {
+        margin-top: -0.3em;
+        font-size: 28px;
+        position: relative;
+        left: 0.5em;
+    }
+    .form-hair .form-cont .title-four {
+        margin-top: -0.3em;
+        font-size: 28px;
+        position: relative;
+        left: 3em;
+    }
+    .form-hair .form-cont .form-sub .form-sub-text {
+        font-size: 14px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-first {
+        position: relative;
+        left: -19em;
+        font-size: 20px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-second {
+        font-size: 20px;
+        position: relative;
+        left: -31.7em;
+        top: 1.5em;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-third {
+        font-size: 20px;
+        position: relative;
+        left: -18.7em;
+        top: 1.5em;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-one {
+        margin-top: 6.3em;
+        font-size: 18px;
+        position: relative;
+        left: -23.3em;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-two {
+        margin-top: 6.3em;
+        font-size: 18px;
+        position: relative;
+        left: -40em;
+        top: 1.5em;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-tree {
+        margin-top: 6.3em;
+        font-size: 18px;
+        position: relative;
+        left: -20.3em;
+        top: 2em;
+    }
+}   
+@media screen and (max-width: 320px) {
+    .form-hair .form-cont {
+        position: relative;
+        right: 2em;
+        top: 41em;
+        width: 292px;
+        height: 512px;
+    }
+    .form-hair .form-cont .form-sub {
+        position: relative;
+        top: 11.5em;
+        left: 5em;
+    }
+    .form-hair img {
+        position: relative;
+        top: 25em;
+        left: 9.8em;
+        width: 77px;
+        height: 77px;
+    }
+    .form-hair .form-cont .form-title {
+        position: relative;
+        left: 0.6em;
+        top: -3em;
+        font-size: 28px;
+    }
+    .form-hair .form-cont .form-sub .form-sub-text {
+        display: -webkit-box;
+        -webkit-line-clamp: 11;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        font-size: 18px;
+        position: relative;
+        left: 5.5em;
+        top: -4em;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-input {
+        width: 244px;
+        height: 42px;
+        position: relative;
+        left: -28.6em;
+        top: 2em;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .form-button {
+        width: 149px;
+        height: 42px;
+        position: relative;
+        top: 6.6em;
+        left: -42em;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .form-button h5 {
+        font-size: 16px;
+    }
+    .form-hair .form-cont .form-sub .form-content .form-cont-butt .more {
+        position: relative;
+        top: 4.6em;
+        width: 20px;
+        height: 20px;
+        left: -34.6em;
+    }
+    .form-hair .form-cont .main-title {
+        position: relative;
+        top: -0.7em;
+    }
+    .form-hair .form-cont .title-one {
+        font-size: 18px;
+        margin-top: 1.3em;
+        position: relative;
+        left: 1em;
+    }
+    .form-hair .form-cont .title-two {
+        margin-top: -0.3em;
+        font-size: 18px;
+        position: relative;
+        left: 2.6em;
+    }
+    .form-hair .form-cont .title-three {
+        margin-top: -0.3em;
+        font-size: 18px;
+        position: relative;
+        left: 0.5em;
+    }
+    .form-hair .form-cont .title-four {
+        margin-top: -0.3em;
+        font-size: 18px;
+        position: relative;
+        left: 3em;
+    }
+    .form-hair .form-cont .form-sub .form-sub-text {
+        font-size: 14px;
+    }
+    .form-hair .form-cont .form-sub .cont-first {
+        position: relative;
+        left: -9.5em;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-first {
+        position: relative;
+        left: -19em;
+        font-size: 14px;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-second {
+        font-size: 14px;
+        position: relative;
+        left: -31.7em;
+        top: 1.5em;
+    }
+    .form-hair .form-cont .form-sub .cont-first .text-third {
+        font-size: 14px;
+        position: relative;
+        left: -18.7em;
+        top: 1.5em;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla {
+        position: relative;
+        top: 2.5em;
+        right: 10em;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-one {
+        margin-top: 6.3em;
+        font-size: 12px;
+        position: relative;
+        left: -23.3em;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-two {
+        margin-top: 6.3em;
+        font-size: 12px;
+        position: relative;
+        left: -40em;
+        top: 1.5em;
+    }
+    .form-hair .form-cont .form-sub .pag-blabla .pag-tree {
+        margin-top: 6.3em;
+        font-size: 12px;
+        position: relative;
+        left: -20.3em;
+        top: 2em;
+    }
+}   

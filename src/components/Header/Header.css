@@ -1,0 +1,169 @@
+.header .header-cont .menu-items {
+  position: relative;
+  left: -13em;
+}
+
+.header .header-cont .menu-items a {
+  margin: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1536px) {
+  .header .header-cont .menu-items {
+      position: relative;
+      left: -2em;
+  }
+}
+@media screen and (max-width: 1280px) {
+  .header .header-cont .logotip h5 {
+    font-size: 14px;
+    position: relative;
+    left: -13em;
+    top: -1.2em;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .header .header-cont .menu-items {
+      position: relative;
+      left: 3em;
+      margin-left: -17em;
+      font-size: 11px;
+  }
+  .header .header-cont .logotip {
+      position: relative;
+      left: -3.5em;
+  }
+  
+  .header .header-cont .burger-menu .inputchik  {
+    position: relative;
+    left: 3.5em;
+  }
+  .header .header-cont .burger-menu .inputchik input  {
+      width: 350px;
+  }
+  .header .header-cont .burger-menu .inputchik input::placeholder {
+    font-size: 14px;
+  }
+  .header .header-cont .burger-menu .inputchik img {
+    position: relative;
+    left: -27.2em;
+  }
+}
+@media screen and (min-width: 992px) {
+  .header .header-cont .menu-items {
+      position: relative;
+      left: 3em;
+      margin-left: -20em;
+      
+  }
+  .header .header-cont .menu-items a {
+    font-size: 13px;
+  }
+  .header .header-cont .logotip {
+      position: relative;
+      left: -3.5em;
+      top: 0.2em;
+  }
+  .header .header-cont .burger-menu .inputchik  {
+    position: relative;
+    left: 3.5em;
+  }
+  .header .header-cont .burger-menu .inputchik input  {
+      width: 300px;
+  }
+  .header .header-cont .burger-menu .inputchik input::placeholder {
+    font-size: 14px;
+  }
+  .header .header-cont .burger-menu .inputchik img {
+    position: relative;
+    left: -24.2em;
+  }
+}
+@media screen and (max-width: 992px) {
+  .header .header-cont .logotip h5 {
+    font-size: 11px;
+    position: relative;
+    left: -13em;
+    top: -1.2em;
+  }
+  .header .header-cont .menu-items {
+    position: relative;
+    left: 3em;
+    margin-left: -17em;
+    display: none;
+}
+  .header .header-cont .burger-menu .inputchik {
+    display: none;
+  }
+  .header .header-cont .logotip {
+    position: relative;
+    left: -3.5em;
+    top: 0.2em;
+  }
+  .header .header-cont .burger-menu .burger-icon  {
+      display: block;
+      position: relative;
+      left: -3em;
+    } 
+  .header .header-cont .burger-menu .menu-items.open {
+        display: block;
+        position: absolute;
+        top: 5em;
+        left: 17em;
+        background-color: #AB9F6F;
+        width: 954px;
+        height: 300px;
+        z-index: 1;
+        padding-top: 1em;
+        padding-left: 2em;
+        gap: 1em; 
+        display: flex;
+        flex-direction: column;
+        padding-left: 3.5em;
+        padding-top: 3em;
+  }
+    .header .header-cont .search-contik {
+      display: block;
+      position: relative;
+      left: -4em;
+    }
+}
+@media screen and (max-width: 768px) {
+  .header .header-cont .logotip h5 {
+    font-size: 11px;
+    position: relative;
+    left: -13em;
+    top: -1.2em;
+  }
+}
+@media screen and (max-width: 480px) {
+  .header .header-cont .search-contik {
+    display: block;
+    position: relative;
+    left: -3.5em;
+  }
+  .header .header-cont .logotip {
+    position: relative;
+    left: -6em;
+  }
+  .header .header-cont .logotip h5 {
+    position: relative;
+    left: 1.5em;
+    top: -1.1em;
+    margin-left: -11em;
+  }
+  .header .header-cont .burger-menu .burger-icon  {
+    position: relative;
+    left: -2em;
+  }
+}

@@ -1,0 +1,32 @@
+.intermittent-border {
+    position: relative;
+    width: 1704px;
+    height: 75px;
+    padding: 20px; /* Adjust padding as needed */
+}
+
+.intermittent-border::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: calc(100% - 20px); /* Adjust width to compensate for padding */
+    height: calc(100% - 20px); /* Adjust height to compensate for padding */
+    border: 2px dashed #373737; /* Border style */
+}
+@media screen and (max-width: 1536px) {
+    .watch-more .intermittent-border {
+        width: 1304px;
+        height: 75px;
+        position: relative;
+        left: 1.3em;
+    }
+}
+@media screen and (max-width: 1280px) {
+    .watch-more .intermittent-border {
+        width: 1024px;
+        height: 75px;
+        position: relative;
+        left: 0.7em;
+    }
+}
