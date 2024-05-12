@@ -8,6 +8,8 @@ import TheMostImpo from './components/TheMostImpo/TheMostImpo'
 import FormGmail from './components/FormGmail/FormGmail'
 import Current from './components/Current/Current'
 import WatchMore from './components/WatchMore/WatchMore'
+import FormAskDoctor from './components/FormAskDoctor/FormAskDoctor'
+import PopUps from './components/PopUps/PopUps'
 
 
 function App() {
@@ -17,12 +19,13 @@ function App() {
     <>
       <Header />
       <Categories />
-      
       <SecondCont />
-      <TheMostImpo />
+     <TheMostImpo />
       <FormGmail />
-      <Current />
       <WatchMore />
+      <Current />
+      <FormAskDoctor />
+      <PopUps />
       <Footer />
     </>
   )

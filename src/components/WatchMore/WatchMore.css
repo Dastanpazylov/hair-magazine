@@ -14,12 +14,21 @@
     height: calc(100% - 20px); /* Adjust height to compensate for padding */
     border: 2px dashed #373737; /* Border style */
 }
+@media screen and (max-width: 1690px) {
+    .watch-more .intermittent-border {
+        width: 1524px;
+        height: 75px;
+        position: relative;
+        left: 1em;
+    }
+}
 @media screen and (max-width: 1536px) {
     .watch-more .intermittent-border {
         width: 1304px;
         height: 75px;
         position: relative;
         left: 1.3em;
+        top: 2.5em;
     }
 }
 @media screen and (max-width: 1280px) {
@@ -27,6 +36,50 @@
         width: 1024px;
         height: 75px;
         position: relative;
-        left: 0.7em;
+        left: 2em;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .watch-more .intermittent-border {
+        width: 1024px;
+        height: 75px;
+        position: relative;
+        left: 2.7em;
+    }
+}
+@media screen and (max-width: 992px) {
+    .watch-more .intermittent-border {
+        width: 874px;
+        height: 75px;
+        position: relative;
+        left: 1em;
+        top: -2em;
+    }
+}
+@media screen and (max-width: 768px) {
+    .watch-more .intermittent-border {
+        width: 724px;
+        height: 75px;
+        position: relative;
+        left: 0.4em;
+    }
+}
+@media screen and (max-width: 480px) {
+    .watch-more .intermittent-border {
+        width: 450px;
+        height: 75px;
+        position: relative;
+        left: 0.6em;
+        top: -4em;
+    }
+}
+@media screen and (max-width: 320px) {
+    .watch-more .intermittent-border {
+        width: 1024px;
+        height: 75px;
+        position: relative;
+        left: 0.8em;
+        top: -1em;
     }
 }

@@ -1,0 +1,202 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+
+  
+  .popup-content {
+    margin-top: 11em;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  +
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+ 
+@media screen and (max-width: 992px) {
+    .pop-main .pop-title {
+        position: relative;
+        bottom: 15em;
+        left: 2em;
+    }
+    .pop-main .pop-cont {
+        margin-top: -11em;
+        position: relative;
+        left: 2.5em;
+    }
+} 
+@media screen and (max-width: 768px) {
+    .pop-main .pop-title {
+        position: relative;
+        bottom: 1em;
+        left: -0.5em;
+    }
+    .pop-main .pop-title h1 {
+        font-size: 18px;
+    }
+    .pop-main .pop-cont {
+        margin-top: 19em;
+        position: relative;
+        left: 5.5em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first {
+        width: 345px;
+        margin-left: -1.9em;
+        height: 240px;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second {
+        width: 345px;
+        margin-left: -7.3em;
+        height: 240px;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third {
+        width: 345px;
+        margin-left: -12.8em;
+        height: 240px;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first .modal-title {
+        font-size: 16px;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second .modal-title {
+        font-size: 16px;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third .modal-title {
+        font-size: 16px;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first .button-pop {
+        width: 200px;
+        height: 38px;
+        margin-left: 4.6em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second .button-pop {
+        width: 200px;
+        height: 38px;
+        margin-left: 4.6em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third .button-pop {
+        width: 200px;
+        height: 38px;
+        margin-left: 4.6em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first .button-pop .button-pop-text {
+        font-size: 10px;
+        padding-top: 0.7em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second .button-pop .button-pop-text {
+        font-size: 10px;
+        padding-top: 0.7em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third .button-pop .button-pop-text {
+        font-size: 10px;
+        padding-top: 0.7em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first .button-pop .button-pop-img {
+        position: relative;
+        left: 10.6em;
+        top: -1em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second .button-pop .button-pop-img {
+        position: relative;
+        left: 10.6em;
+        top: -1em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third .button-pop .button-pop-img {
+        position: relative;
+        left: 10.6em;
+        top: -1em;
+    }
+} 
+@media screen and (max-width: 320px) {
+    pop-main .pop-title {
+        position: relative;
+        bottom: 1em;
+        left: -0.5em;
+    }
+    .pop-main .pop-title h1 {
+        font-size: 14px;
+        margin-left: 1em;
+    }
+    .pop-main .pop-cont {
+        margin-top: 19em;
+        position: relative;
+        left: 7.5em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first {
+        width: 345px;
+        margin-left: -1.9em;
+        height: 240px;
+        margin-top: -5em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second {
+        width: 345px;
+        margin-left: -7.3em;
+        height: 240px;
+        margin-top: -5em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third {
+        width: 345px;
+        margin-left: -12.8em;
+        height: 240px;
+        margin-top: -5em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first .modal-title {
+        font-size: 16px;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second .modal-title {
+        font-size: 16px;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third .modal-title {
+        font-size: 16px;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first .button-pop {
+        width: 200px;
+        height: 38px;
+        margin-left: 4.6em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second .button-pop {
+        width: 200px;
+        height: 38px;
+        margin-left: 4.6em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third .button-pop {
+        width: 200px;
+        height: 38px;
+        margin-left: 4.6em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first .button-pop .button-pop-text {
+        font-size: 10px;
+        padding-top: 0.7em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second .button-pop .button-pop-text {
+        font-size: 10px;
+        padding-top: 0.7em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third .button-pop .button-pop-text {
+        font-size: 10px;
+        padding-top: 0.7em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-first .button-pop .button-pop-img {
+        position: relative;
+        left: 10.6em;
+        top: -1em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-second .button-pop .button-pop-img {
+        position: relative;
+        left: 10.6em;
+        top: -1em;
+    }
+    .pop-main .pop-cont .pop-border .modal-pop-third .button-pop .button-pop-img {
+        position: relative;
+        left: 10.6em;
+        top: -1em;
+    }
+} 
